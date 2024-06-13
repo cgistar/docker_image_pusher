@@ -1,5 +1,5 @@
 alpine
-python:alpine:3.19
+python:alpine3.19
 nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
