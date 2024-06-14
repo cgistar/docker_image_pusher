@@ -1,6 +1,6 @@
-alpine
 python:alpine3.19
-nyanmisaka/jellyfin
+python:3.9-slim
+nyanmisaka/jellyfin:240401-amd64
 linuxserver/jackett
 allanpk716/chinesesubfinder
 metatube/metatube-server:latest
