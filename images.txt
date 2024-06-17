@@ -2,5 +2,6 @@ python:alpine3.19
 python:3.9-slim
 nyanmisaka/jellyfin:240401-amd64
 linuxserver/jackett
+flaresolverr/flaresolverr:v3.3.19
 allanpk716/chinesesubfinder
 metatube/metatube-server:latest
