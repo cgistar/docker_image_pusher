@@ -12,3 +12,4 @@ flaresolverr/flaresolverr:v3.3.19
 allanpk716/chinesesubfinder
 metatube/metatube-server:latest
 adguard/adguardhome:v0.107.51
+onlyoffice/documentserver:8.1.1
