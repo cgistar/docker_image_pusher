@@ -6,6 +6,7 @@ python:3.10-slim
 openjdk:17-jdk-alpine
 openjdk:17-jdk-alpine3.14
 openjdk:17-slim-bullseye
+golang:alpine
 linuxserver/jackett:0.22.164
 lscr.io/linuxserver/sonarr:4.0.5
 lscr.io/linuxserver/jellyfin:10.9.6
