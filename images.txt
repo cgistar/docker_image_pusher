@@ -16,3 +16,5 @@ metatube/metatube-server:latest
 adguard/adguardhome:v0.107.51
 onlyoffice/documentserver:8.1.1
 mysql:5.7
+vaultwarden/server:1.32.7
+vaultwarden/server:1.32.7-alpine
