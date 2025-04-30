@@ -3,6 +3,7 @@ ubuntu:22.04
 python:3.10-alpine3.20
 python:3.9-slim
 python:3.10-slim
+python:3.12-slim
 openjdk:17-jdk-alpine
 openjdk:17-jdk-alpine3.14
 openjdk:17-slim-bullseye
@@ -13,7 +14,6 @@ lscr.io/linuxserver/jellyfin:10.9.6
 flaresolverr/flaresolverr:v3.3.19
 allanpk716/chinesesubfinder
 metatube/metatube-server:latest
-adguard/adguardhome:v0.107.51
 onlyoffice/documentserver:8.1.1
 mysql:5.7
 vaultwarden/server:1.32.7
